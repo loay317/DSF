@@ -11,4 +11,6 @@ During this session you'll learn about Data Science, the goals and objectives of
 * Data types: structured, ustructured and everything in between
 
 ## session material
-* 
+1. [Overview of data science](https://github.com/Abdel-Razzak/DSF/blob/1-Introduction-to-Data-Science/Overview%20of%20Data%20Science.ipynb)
+2. [Data Science Workflow](https://github.com/Abdel-Razzak/DSF/blob/1-Introduction-to-Data-Science/Data%20Science%20Workflow1.ipynb)
+3. [Readings](https://github.com/Abdel-Razzak/DSF/tree/1-Introduction-to-Data-Science/Material)
