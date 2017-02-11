@@ -31,3 +31,5 @@ Upon completion of the subject, students will be able to:
 * ### [Hypothesis Testing: T-test, Chi-squared test, Fisher test, etc…](https://github.com/Abdel-Razzak/DSF/blob/3-EDA/Readings/Introduction%20to%20hypothisis%20testing.pdf) 
 
 * ### [Project 1- Data Science Projects: weather forecasting Overview and challenge](https://github.com/Abdel-Razzak/DSF/blob/3-EDA/Weather%20Data%20Project/01_02_stations.ipynb) 
+
+* ### Data Scource: [Iris data](https://github.com/Abdel-Razzak/DSF/blob/3-EDA/iris-data.csv)
