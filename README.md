@@ -33,3 +33,4 @@ Upon completion of the subject, students will be able to:
 * ### [Project 1- Data Science Projects: weather forecasting Overview and challenge](https://github.com/Abdel-Razzak/DSF/blob/3-EDA/Weather%20Data%20Project/01_02_stations.ipynb) 
 
 * ### Data Scource: [Iris data](https://github.com/Abdel-Razzak/DSF/blob/3-EDA/iris-data.csv)
+* ### Workshop Material: [session 2](https://github.com/Abdel-Razzak/DSF/blob/3-EDA/session%202.rar)
